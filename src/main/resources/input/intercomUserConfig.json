@@ -1,0 +1,12 @@
+{
+  "userFacingName": "Intercom Configuration",
+  "authType": "ConnectorManaged",
+  "userConfig": [
+    {
+      "userFieldName": "accessToken",
+      "userFieldType": "Textbox",
+      "description": "authorixation token provide by intercom under store settings",
+      "isRequired": true
+    }
+    ]
+}
